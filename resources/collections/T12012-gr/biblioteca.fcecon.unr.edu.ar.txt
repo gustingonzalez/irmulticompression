@@ -1,0 +1,1 @@
+  utilice las flechas (<< >>) que aparecen debajo de la pantalla para recorrer los registros.      

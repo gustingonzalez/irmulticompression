@@ -1,0 +1,1 @@
+universidad católica argentinavar pagina="http://www2.uca.edu.ar"function redireccionar() {location.href=pagina} settimeout ("redireccionar()", 1000);                         

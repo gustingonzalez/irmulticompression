@@ -1,0 +1,1 @@
+    redireccionado al blog educación y tic    location.href='http://www.ead.unlp.edu.ar/blog';        

